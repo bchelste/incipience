@@ -20,4 +20,4 @@ without nginx.
 :large_blue_diamond: A docker-network that establishes the connection between your containers.
 ____
 
-![screenshot](https://github.com/bchelste/my_Wolfenstein_3D/blob/main/textures/photo_2022-05-26%2018.01.18.jpeg)
+![screenshot](https://github.com/bchelste/incipience/blob/main/result.png)
